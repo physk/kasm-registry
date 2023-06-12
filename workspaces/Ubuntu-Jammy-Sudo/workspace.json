@@ -2,7 +2,7 @@
     "friendly_name": "Ubuntu Jammy Sudo",
     "image_src": "ubuntu.png",
     "description": "Ubuntu is a Linux distribution based on Debian. This Image Contains Sudo, Handbrake and youtube-dlp",
-    "name": "kasmweb/ubuntu-jammy-desktop:develop",
+    "name": "physk/ubuntu-jammy-desktop-sudo:latest",
     "cores": 2,
     "memory": 2768,
     "gpu_count": 0,
