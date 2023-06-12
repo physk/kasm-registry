@@ -16,5 +16,6 @@
     "image_type": "Container",
     "architecture": [
       "amd64"
-    ]
+    ],
+    "uncompressed_size_mb": 1024
   }
