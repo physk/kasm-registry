@@ -2,11 +2,11 @@
 
 const nextConfig = {
   env: {
-    name: 'Kasm Technologies',
-    description: 'The official store for Kasm supported workspaces.',
+    name: 'PhysK Registry',
+    description: 'Physk\'s registry for kasm workspaces.',
     icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
-    contactUrl: 'https://kasmweb.com/support',
+    listUrl: 'https://physk.github.io/kasm-registry/',
+    contactUrl: 'n/a',
   },
   reactStrictMode: true,
   swcMinify: true,
